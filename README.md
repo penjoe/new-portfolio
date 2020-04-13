@@ -4,77 +4,41 @@ This is my personal portfolio. It is my personal web presence where I can showca
 
 ## Getting Started
 
-Check out my work [HERE]() and other projects I have going on [HERE]().
+Check out my site [HERE](https://penjoe.github.io/new-portfolio/) and other projects I have going on [HERE](https://github.com/penjoe).
 
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* HTML5 
+* CSS3 
+* jQuery 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [1.0.0](https://github.com/penjoe/new-portfolio/pull/1) 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Joe Pennock** - *Full-stack JavaScript Developer* - [GitHub](https://github.com/penjoe)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons License - see the [LICENSE.txt](LICENSE.txt) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Design template by [HTML5 UP](https://html5up.net/)
+
+## Feature Time Estimates 
+
+* Number and name of feature: Feature #1 - Refactor CSS 
+* Estimate of time needed to complete: 2.5 hours
+* Start time: 5:00pm 4/12/2020
+* Finish time: 6:30pm 4/12/2020
+* Actual time needed to complete: 1.5 hours
+
+* Number and name of feature:
+* Estimate of time needed to complete:
+* Start time:
+* Finish time:
+* Actual time needed to complete:
