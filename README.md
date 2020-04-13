@@ -37,8 +37,8 @@ This project is licensed under the Creative Commons License - see the [LICENSE.t
 * Finish time: 6:30pm 4/12/2020
 * Actual time needed to complete: 1.5 hours
 
-* Number and name of feature:
-* Estimate of time needed to complete:
-* Start time:
+* Number and name of feature: Feature #2 - modify content
+* Estimate of time needed to complete: 4 hours
+* Start time: 6:30pm 4/12/2020
 * Finish time:
 * Actual time needed to complete:
